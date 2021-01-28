@@ -23,4 +23,4 @@ print('id 6 新成績如下：')
 print(new_6_score)
 
 print('加權後各科平均分：')
-print(new_6_score[['math_score', 'english_score', 'chinese_score']].mean())
+print(new_score[['math_score', 'english_score', 'chinese_score']].mean())
